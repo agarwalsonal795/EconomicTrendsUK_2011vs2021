@@ -117,13 +117,14 @@ cd ethnic-socioeconomic-trends
 ```
 
 2. Explore:
-data/ for cleaned datasets
+ 
+ **data** for cleaned datasets
 
-notebooks/ for Python data processing scripts
+**notebooks** for Python data processing scripts
 
-dashboards/ for Tableau visualization assets
+**dashboards** for Tableau visualization assets
 
-Report_SONAL.pdf for the full analysis and findings
+**Report_SONAL.pdf** for the full analysis and findings
 
 3 Open Tableau Dashboards:
 Load files from the dashboards/ folder in Tableau Desktop or Tableau Public for interactive exploration.
