@@ -17,10 +17,10 @@ The project leverages **advanced data analysis** and **interactive visualization
 
 ## 📂 Repository Contents
 
-data/ # Cleaned and harmonized datasets (CSV format)
-notebooks/ # Jupyter notebooks for data processing and analysis
-dashboards/ # Tableau dashboards and visualization assets
-Report_SONAL.pdf # Full project report with methodology, results, and findings
+- **Data** # Cleaned and harmonized datasets (CSV format)
+- **Notebooks** # Jupyter notebooks for data processing and analysis
+- **Dashboards** # Tableau dashboards and visualization assets
+- **Report_SONAL.pdf** # Full project report with methodology, results, and findings
 
 ## 🛠️ Data Preparation and Processing
 
