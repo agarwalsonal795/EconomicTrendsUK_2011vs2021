@@ -1,7 +1,5 @@
 **Socio-Economic and Ethnic Trends in England and Wales(2011–2021)**
 
-**Abstract**
-
 This report explores changes in ethnic diversity and labour market across England and Wales, based on
 data from the 2011 and 2021 UK Censuses. It uses data analysis and visual tools to better understand
 these trends. To deal with missing information and merged areas in the 2021 data, the study uses Bayesian
